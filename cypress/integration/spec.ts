@@ -1,6 +1,6 @@
 describe('Firestarter', () => {
-  const email = 'ValidEmail23';
-  const pass = 'ValidPassword23';
+  const email = 'Laura';
+  const pass = '1234';
 
   beforeEach(() => {
     cy.visit('http://localhost:4200/');
